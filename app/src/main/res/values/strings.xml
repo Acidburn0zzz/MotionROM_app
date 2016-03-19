@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Motion ROM</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="section_format2">Hello World</string>
+    <string name="aapav01">Aapav01</string>
+    <string name="lgaljo">Lgaljo</string>
+    <string name="gmdev">German Developer</string>
+    <string name="nks15">nks15</string>
+    <string name="or2412">oranaise2412</string>
+    <string name="grand2_xda">Grand 2 XDA</string>
+    <string name="s3_xda">S3 neo XDA</string>
+    <string name="check_update">Refresh</string>
+    <string name="Change_log_update">Fetch the Change log</string>
+    <string name="rom_about">This Project was Started by aapav01. To bring the Fun of Touchwiz Lollipop to our device which company had decide to not push the update to our device but our brother S5 mini duos. So Aapav01 and His team Managed to port and make it 100% Working On Other Family Member of Samsung msm8226 chipset.
+     We will love to provide update as The samsung ship to the S5 mini Duos.\n\nAnd Please Dont Forget to give us Thanks om XDA threads</string>
+</resources>
